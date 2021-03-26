@@ -17,7 +17,7 @@ We have domain registries on **Mainnet** and **Rinkeby**.
 
 ## Free domains
 
-It is possible to mint free domains, use [manage-dot-CRYPTO DApp](https://cloudflare-ipfs.com/ipfs/QmfAa53YuShSLjnKZukyAMmHi8xwQXCHbadASAfbLRbUtJ/) to do this.
+It is possible to mint free domains, use [manage-dot-CRYPTO DApp](https://cloudflare-ipfs.com/ipfs/QmfAa53YuShSLjnKZukyAMmHi8xwQXCHbadASAfbLRbUtJ/) or [Unstoppable Developers Page](https://unstoppabledomains.com/developers) to do this.
 
 ## .crypto smart contracts
 
@@ -31,6 +31,7 @@ It is possible to mint free domains, use [manage-dot-CRYPTO DApp](https://cloudf
 - [resolution-swift](https://github.com/unstoppabledomains/resolution-swift)
 - [resolution-java](https://github.com/unstoppabledomains/resolution-java)
 - [resolution-go](https://github.com/unstoppabledomains/resolution-go)
+- [resolution-cli](https://github.com/unstoppabledomains/resolution-cli)
 
 ## Faucet
 
