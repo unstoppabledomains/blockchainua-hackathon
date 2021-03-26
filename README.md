@@ -17,7 +17,7 @@ We have domain registries on **Mainnet** and **Rinkeby**.
 
 ## Free domains
 
-It is possible to mint free domains, use [manage-dot-CRYPTO DApp](https://cloudflare-ipfs.com/ipfs/QmfAa53YuShSLjnKZukyAMmHi8xwQXCHbadASAfbLRbUtJ/) or [Unstoppable Developers Page](https://unstoppabledomains.com/developers) to do this.
+It is possible to mint free domains, use [manage-dot-CRYPTO DApp](https://cloudflare-ipfs.com/ipfs/QmTATyw8G1gzRsTf5egg8UfiQoeGtpPDHT7c23bL7nVncT/) or [Unstoppable Developers Page](https://unstoppabledomains.com/developers) to do this.
 
 ## .crypto smart contracts
 
@@ -39,7 +39,7 @@ It is convenient to use testnet for development. There is a [faucet](https://fau
 
 ## Examples
 
-[manage-dot-CRYPTO DApp](https://cloudflare-ipfs.com/ipfs/QmfAa53YuShSLjnKZukyAMmHi8xwQXCHbadASAfbLRbUtJ/) allows performing operations on .crypto domains. The DApp gives you a posibility to retrieve own domains, check domain's events, transfer domain, update domain's records, mint free domain and lookup by domain name. It supports Mainnet and Rinkeby.
+[manage-dot-CRYPTO DApp](https://cloudflare-ipfs.com/ipfs/QmTATyw8G1gzRsTf5egg8UfiQoeGtpPDHT7c23bL7nVncT/) allows performing operations on .crypto domains. The DApp gives you a posibility to retrieve own domains, check domain's events, transfer domain, set default resolver, update domain's records, mint free domain and lookup by domain name. It supports Mainnet and Rinkeby.
 
 ## References
 
