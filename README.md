@@ -39,7 +39,7 @@ It is convenient to use testnet for development. There is a [faucet](https://fau
 
 ## Examples
 
-[manage-dot-CRYPTO DApp](https://cloudflare-ipfs.com/ipfs/QmTATyw8G1gzRsTf5egg8UfiQoeGtpPDHT7c23bL7nVncT/) allows performing operations on .crypto domains. The DApp gives you a posibility to retrieve own domains, check domain's events, transfer domain, set default resolver, update domain's records, mint free domain and lookup by domain name. It supports Mainnet and Rinkeby.
+[manage-dot-CRYPTO DApp](https://cloudflare-ipfs.com/ipfs/QmTATyw8G1gzRsTf5egg8UfiQoeGtpPDHT7c23bL7nVncT/) allows performing operations on .crypto domains. The DApp gives you a posibility to retrieve own domains, check domain's events, transfer domain, set default resolver, update domain's records, mint free domain and lookup by domain name. It supports Mainnet and Rinkeby. [GitHub](https://github.com/aquiladev/manage-dot-crypto)
 
 ## References
 
